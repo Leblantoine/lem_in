@@ -14,7 +14,8 @@ Ajuste le nombre de chemin utilisé en fonction du nombre de fourmi.
 
 ####Exemple
 
-```12
+```
+12
 ##start
 1 23 3
 2 16 7
@@ -38,4 +39,5 @@ Ajuste le nombre de chemin utilisé en fonction du nombre de fourmi.
 7-6
 7-2
 7-4
-6-5```
+6-5
+```
